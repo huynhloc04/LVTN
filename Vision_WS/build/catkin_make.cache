@@ -1,0 +1,2 @@
+lvtn_pkg
+-DCATKIN_DEVEL_PREFIX=/home/jetson/Documents/LVTN/vision_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/Documents/LVTN/vision_ws/install -G Unix Makefiles

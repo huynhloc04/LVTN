@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/Documents/LVTN/vision_ws/devel/setup.sh

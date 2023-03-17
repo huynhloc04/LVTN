@@ -1,0 +1,8 @@
+prefix=/home/jetson/Documents/LVTN/vision_ws/devel
+
+Name: lvtn_pkg
+Description: Description of lvtn_pkg
+Version: 0.0.0
+Cflags: -I/home/jetson/Documents/LVTN/vision_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
