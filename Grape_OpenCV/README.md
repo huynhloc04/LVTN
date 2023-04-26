@@ -25,7 +25,7 @@
    
    ![github image](images/DBSCAN_DataPoint.png)
    
-   => We can see some noise (purple ones) is detected and separated from the true clusters  
+   ***=> We can see some noise (purple ones) is detected and separated from the true clusters***
 
    Clustering results
    
