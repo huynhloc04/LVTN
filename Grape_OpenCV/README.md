@@ -1,6 +1,6 @@
 ## **This implementation for grape detection using Image Processing + Clustering**
 
-## ***Note***: *This methods is just for testing and comparison*
+## ***Note***: *This methods are just for testing and comparison*
 
 ## ***Ideal***: 
 - Each grape on the cluster is round in shape, so we use a traditional image processing algorithm called: Hough Circle to detect these round grape. 
