@@ -9,7 +9,7 @@
 
 ## ***Demo and results***
 
-**1. Hough Circle + KMeans**
+### **1. Hough Circle + KMeans**
    
    Grape centers clustering after applying Kmeans
    
@@ -19,7 +19,7 @@
    
    ![github image](images/Kmeans.png)
 
-**2. Hough Circle + DBSCAN**
+### **2. Hough Circle + DBSCAN**
    
    Grape centers clustering after applying DBSCAN
    
