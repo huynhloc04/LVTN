@@ -29,4 +29,4 @@
    
    ![github image](images/DBSCAN.png)
    
-***Demo video***: **https://www.youtube.com/watch?v=TE46iTGDzWM**
+***Demo video***: *https://www.youtube.com/watch?v=TE46iTGDzWM*
