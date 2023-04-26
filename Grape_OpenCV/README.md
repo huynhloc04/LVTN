@@ -12,17 +12,21 @@
 1. Hough Circle + KMeans
    
    Grape centers clustering after applying Kmeans
+   
    ![github image](images/Kmeans_DataPoint.png)
 
    Clustering results
+   
    ![github image](images/Kmeans.png)
 
 2. Hough Circle + DBSCAN
    
    Grape centers clustering after applying DBSCAN
+   
    ![github image](images/DBSCAN_DataPoint.png)
 
    Clustering results
+   
    ![github image](images/DBSCAN.png)
    
 Demo video: https://www.youtube.com/watch?v=TE46iTGDzWM
