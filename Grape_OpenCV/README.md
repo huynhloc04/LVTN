@@ -24,6 +24,8 @@
    Grape centers clustering after applying DBSCAN
    
    ![github image](images/DBSCAN_DataPoint.png)
+   
+   => We can see some noise (in ) is 
 
    Clustering results
    
