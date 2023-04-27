@@ -136,7 +136,7 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     X: coordinate of grape along the X axis
     Y: coordinate of grape along the Y axis
     Z: coordinate of grape along the Z axis
-    classID: type of grapes are green or ripe, 0 is green, 1 is ripe
+    classID: type of grapes: green or ripe; 0 is green, 1 is ripe
     ```
 
     This coordinates will be used to control robot for grape harvesting task.
