@@ -127,8 +127,10 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
 
     - Optional: To see what pub_track.py publishes to **vision** topic, open the next terminal and type: ```rostopic echo vision```
   ######
-    The content of a message is published would be as follow:
-    ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/message.jpg)
+   
+   The content of a message is published would be as follow:
+   
+   ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/message.jpg)
 
     ```bash
     X: coordinate of grape along the X axis
