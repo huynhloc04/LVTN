@@ -10,6 +10,10 @@ In this project, we use a stereo camera IMX219-83 to take input images and most 
 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/stereo_camera.jpg)
 
+## Obtained results:
+
+![github image](https://github.com/huynhloc04/LVTN/blob/main/images/result.jpg)
+
 ### ***Robot demo:*** *https://youtu.be/5mz9hTh2y6E*
 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/Grape_Robot.jpg)
