@@ -2,7 +2,7 @@
 
 ## **Why YOLOv5s**
 
-![github image]([YOLO_Compare.jpg](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/YOLO_Compare.jpg))
+![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/YOLO_Compare.jpg)
 
 As two graphs showed above, on left side is the relationship of the number of parameters and mAP on COCO dataset and the right one is between latency and mAP.
 
