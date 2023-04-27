@@ -1,4 +1,4 @@
-# **This implementation is for grape detection using Deep Learning method: YOLOv5s and optimize post-training model by TensorRT**
+# **This implementation is for grape detection using Deep Learning method: YOLOv5s and optimizes post-training model by TensorRT**
 
 ## **Why YOLOv5s**
 
