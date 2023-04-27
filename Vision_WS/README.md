@@ -88,8 +88,6 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     3.1 Generate .wts from pytorch with .pt, or download .wts from model zoo
 
     ```bash
-    // clone code according to above #Different versions of yolov5
-    // download https://github.com/ultralytics/yolov5/releases/download/v6.2/yolov5s.pt
     cp {tensorrtx}/yolov5/gen_wts.py {ultralytics}/yolov5
     cd {ultralytics}/yolov5
     python gen_wts.py -w yolov5s.pt -o yolov5s.wts
