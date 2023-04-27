@@ -140,10 +140,14 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     ```
 
     This coordinates will be used to control robot for grape harvesting task.
-
-    **Demo video:** *https://www.youtube.com/watch?v=5mz9hTh2y6E&t=16s*
+    
+    ## **Results and demonstrations**
+    
+    **Detected results:**
     
     ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/result.jpg)
+        
+    **Demo video:** *https://www.youtube.com/watch?v=5mz9hTh2y6E&t=16s*
 
 
 
