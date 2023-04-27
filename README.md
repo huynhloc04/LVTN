@@ -6,7 +6,7 @@ We also deploy all codes (Deep Learning model) to edge device. It is Jetson Nano
 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/JetsonNano.jpg)
 
-In this project, we use camera stereo IMX219-83 to get input images
+In this project, we use a stereo camera IMX219-83 to take input images and most important is to calculate the distance from the camera to objects (grapes) using *"stereo vision"*
 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/stereo_camera.jpg)
 
