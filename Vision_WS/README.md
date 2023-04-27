@@ -68,7 +68,7 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     
     and
 
-    - `git clone -b yolov5-v6.2 https://github.com/wang-xinyu/tensorrtx.git`)
+    - `git clone -b yolov5-v6.2 https://github.com/wang-xinyu/tensorrtx.git`
   
   ####
 
