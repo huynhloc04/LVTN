@@ -10,7 +10,7 @@ For the purpose of deploying to edge devices (Jetson Nano), we need a lightweigh
 
 After a process of repeated testing, we realized that YOLOv5s performed very well on Jetson Nano. The others also performed pretty well but they have a trade-off between performance and latency. So YOLOv5s is the best choice in a scenario of an edge device.
 
->> **Our model can detect all grapes on the tree and classify them as green or ripe. So that robot can distinguish and only harvest ripe grapes.**
+>> **Our model can detect all grapes on the tree and classify them as green or ripe. So that robot can distinguish and only harvest ripe ones.**
 
 ### **Image below is the flowchart of robot**
 
