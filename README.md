@@ -2,7 +2,7 @@
 
 This repository contains all implementations as input for grape harvesting robot using ***Image Processing + Clustering*** or ***Deep Learning*** methods.
 
-We also deploy all codes (Deep Learning model) to edge device. It is Jetson Nano
+We also deploy all codes (Deep Learning model) to edge device. It is Jetson Nano (B01)
 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/JetsonNano.jpg)
 
