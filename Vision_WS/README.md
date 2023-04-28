@@ -8,7 +8,7 @@ As two graphs showed above, on left side is the relationship of the number of pa
 
 For the purpose of deploying to edge devices (Jetson Nano), we need a lightweight model to optimize the hardware. So, "nano", "tiny" or "small" would be the best choices.
 
-After a process of repeated testing, we realized that YOLOv5s performed very well on Jetson Nano. The others also performed pretty well but they have a trade-off between performance and latency. So YOLOv5s is the best choice in a scenario of an edge device.
+After a process of repeated testing, we realized that YOLOv5s performed very well on Jetson Nano. The others also performed pretty well but they have a trade-off between performance and latency. So YOLOv5s is the best choice in a scenario of an edge device (Jetson Nano B01).
 
 >> **Our model can detect all grapes on the tree and classify them as green or ripe. So that robot can distinguish and only harvest ripe ones.**
 
