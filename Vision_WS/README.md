@@ -107,7 +107,7 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     sudo ./yolov5 -s [.wts] [.engine] s  // serialize model to plan file
     ```
 
-    After convert and serialize, "__.so" and "__.engine" file is generated.
+    After convert and serialize, ".so" and ".engine" file is generated.
 
     #####
 
