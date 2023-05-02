@@ -115,6 +115,7 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     
 <!--     ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/benchmark.jpg) -->
     <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/benchmark.jpg" width=50% height=50%>
+    
 
     #####
 
