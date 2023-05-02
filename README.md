@@ -5,13 +5,13 @@ This repository contains all implementations as input for grape harvesting robot
 We also deploy all codes (Deep Learning model) to edge device. It is Jetson Nano (B01)
 
 <p align="center">
-  <img src="https://github.com/huynhloc04/LVTN/blob/main/images/JetsonNano.jpg" width="500" />
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/images/JetsonNano.jpg" width="400" />
 </p>
 
 In this project, we use a stereo camera IMX219-83 to take input images and the most important is to calculate the coordinates (X, Y, Z) in real world from the camera to the objects (grapes) using *"stereo vision"*
 
 <p align="center">
-  <img src="https://github.com/huynhloc04/LVTN/blob/main/images/stereo_camera.jpg" width="500" />
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/images/stereo_camera.jpg" width="350" />
 </p>
 
 ## Obtained results:
