@@ -113,7 +113,11 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     
     The following table summarizes how different models perform on Jetson Nano B01.
     
-    ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/benchmark.jpg)    
+<!--     ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/benchmark.jpg)     -->
+    <p>
+      <a>
+        <img width="70%" src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/benchmark.jpg"></a>
+    </p>
 
     #####
 
