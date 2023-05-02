@@ -46,7 +46,7 @@ python train.py --img 640 --batch-size 128 --epochs 300 --data {dataset.location
 
 <!-- ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg) -->
 
-<img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg" width="200" />
+<img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg" width="600" />
 
 This session is all of instructions for converting trained model to **TensorRT** - an SDK for high-performance deep learning inference. 
 
