@@ -44,6 +44,8 @@ python train.py --img 640 --batch-size 128 --epochs 300 --data {dataset.location
 
 ## **TensorRT for deployment**
 
+![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg)
+
 This session is all of instructions for converting trained model to **TensorRT** - an SDK for high-performance deep learning inference. 
 
 For more information about TensorRT, visit here: https://developer.nvidia.com/tensorrt
