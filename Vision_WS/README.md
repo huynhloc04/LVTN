@@ -15,7 +15,7 @@ After a process of repeated testing, we realized that YOLOv5s performed very wel
 ### **Image below is the flowchart of robot**
 
 <p align="center">
-  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="500" />
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="700" />
 </p>
 
 ## **Training**
