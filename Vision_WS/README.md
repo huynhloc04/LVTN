@@ -108,6 +108,12 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     ```
 
     After convert and serialize, ".so" and ".engine" file is generated.
+    
+    **4. Benchmark results**
+    
+    The following table summarizes how different models perform on Jetson Nano B01.
+    
+    ![github image](https://github.com/huynhloc04/LVTN/blob/main/images/benchmark.jpg)
 
     #####
 
