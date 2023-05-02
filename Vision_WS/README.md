@@ -14,9 +14,9 @@ After a process of repeated testing, we realized that YOLOv5s performed very wel
 
 ### **Image below is the flowchart of robot**
 
-<!-- ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg) -->
-
-<img src=https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg, width=500 />
+<p align="center">
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="500" />
+</p>
 
 ## **Training**
 
@@ -46,7 +46,9 @@ python train.py --img 640 --batch-size 128 --epochs 300 --data {dataset.location
 
 ## **TensorRT for deployment**
 
-<img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg" width="500" />
+<p align="center">
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/tensorrt.jpg" width="500" />
+</p>
 
 This session is all of instructions for converting trained model to **TensorRT** - an SDK for high-performance deep learning inference. 
 
