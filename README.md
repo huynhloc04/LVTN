@@ -16,7 +16,9 @@ In this project, we use a stereo camera IMX219-83 to take input images and the m
 
 ## Obtained results:
 
-![github image](https://github.com/huynhloc04/LVTN/blob/main/images/result.jpg)
+<p align="center">
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/images/result.jpg" width="700" />
+</p>
 
 And we will use this results to control robot for harvesting task as a demonstration video showed as below
 
