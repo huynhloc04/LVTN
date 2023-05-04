@@ -14,12 +14,6 @@ After a process of repeated testing, we realized that YOLOv5s performed very wel
 
 >> **Our model can detect all grapes on the tree and classify them as green or ripe. So that robot can distinguish and only harvest ripe ones.**
 
-### **Image below is the flowchart of robot**
-
-<p align="center">
-  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="700" />
-</p>
-
 ## **Training**
 
 - Dataset used: [thsant/wgisd](https://zenodo.org/record/3361736#.XcQJVzMzZPY) + images collected from the Internet and labeled by [Roboflow](https://roboflow.com/)
