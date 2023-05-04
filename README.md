@@ -15,7 +15,7 @@ In this project, we use a stereo camera IMX219-83 to take input images and the m
 </p>
 
 
-## Image below is the flowchart of robot
+## The image below is the flowchart of robot
 
 <p align="center">
   <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="650" />
