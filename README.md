@@ -14,6 +14,13 @@ In this project, we use a stereo camera IMX219-83 to take input images and the m
   <img src="https://github.com/huynhloc04/LVTN/blob/main/images/stereo_camera.jpg" width="350" />
 </p>
 
+
+## Image below is the flowchart of robot
+
+<p align="center">
+  <img src="https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/flowchart.jpg" width="700" />
+</p>
+
 ## Obtained results:
 
 <p align="center">
