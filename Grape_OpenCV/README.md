@@ -1,4 +1,4 @@
-## **This implementation for grape detection using Image Processing + Clustering**
+## **This implementation is for grape detection using Image Processing + Clustering**
 
 ## ***Note***: *This method is just for testing and comparison*
 
