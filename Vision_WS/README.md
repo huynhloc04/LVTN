@@ -128,7 +128,7 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     Clone [Vision_WS](https://github.com/huynhloc04/LVTN/tree/main/Vision_WS) to your directory and copy two generated files above to [src](https://github.com/huynhloc04/LVTN/tree/main/Vision_WS/src/lvtn_pkg/src) folder.
 
     - Open your terminal, type: ```roscore```
-    - Open the second terminal or press **Ctrl + Shift + T**, type: ```rosrun vision_pkg pub_track.py```. This is to initialze rosnode: **OD** and rostopic: **vision**. So, the TensorRT model is run and publishes a message contains coordinate **(X, Y, Z)** to **vision** topic.
+    - Open the second terminal or press **Ctrl + Shift + T**, type: ```rosrun vision_pkg pub_track.py```. This is to initialze rosnode: **OD** and rostopic: **vision**. So, the TensorRT model is run and publishes a message contains coordinate **(X, Y, Z) and class_id** to **vision** topic.
     Do not forget to source the bash file before run these line of code: ```source devel/setup.bash```
 
     - Optional: To see what pub_track.py publishes to **vision** topic, open the next terminal and type: ```rostopic echo vision```
@@ -142,10 +142,10 @@ For more information about TensorRT, visit here: https://developer.nvidia.com/te
     X: coordinate of grape along the X axis
     Y: coordinate of grape along the Y axis
     Z: coordinate of grape along the Z axis
-    classID: type of grapes: green or ripe; 0 is green, 1 is ripe
+    classID: type of grapes; 0 is green, 1 is ripe
     ```
 
-    This coordinates will be used to control robot for grape harvesting task.
+    This mesage will be used to control robot for grape harvesting task.
     
     ## **Results and demonstrations**
     
