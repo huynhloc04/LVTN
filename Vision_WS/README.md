@@ -18,7 +18,9 @@ After a process of repeated testing, we realized that YOLOv5s performed very wel
 
 - Dataset used: [thsant/wgisd](https://zenodo.org/record/3361736#.XcQJVzMzZPY) + images collected from the Internet and labeled by [Roboflow](https://roboflow.com/)
 - The structure of data is as follow:
+- 
 ![github image](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/images/data_structure.png)
+
 - Download [GrapeTrain_YOLOv5.ipynb](https://github.com/huynhloc04/LVTN/blob/main/Vision_WS/GrpeTrain_YOLOv5.ipynb) file and run notebook cells. It will automatically install all requirement packages and download data from Robofow for training.
 - I have trained my own on [kaggle.com](https://www.kaggle.com/)
   
