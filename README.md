@@ -1,6 +1,6 @@
 ## Grape Harvesting Robot
 
-This repository contains all implementations as input for grape harvesting robot using ***Image Processing + Clustering*** or ***Deep Learning*** methods.
+This repository contains all implementations as input for grape harvesting robot using ***[Image Processing + Clustering](https://github.com/huynhloc04/LVTN/tree/main/Grape_OpenCV)*** or ***[Deep Learning](https://github.com/huynhloc04/LVTN/tree/main/Vision_WS)*** methods.
 
 We also deploy all codes (Deep Learning model) to edge device. It is Jetson Nano (B01)
 
