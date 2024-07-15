@@ -1,4 +1,4 @@
-## Grape Harvesting Robot
+## Grape Harvesting Robot (Graduate Thesis)
 
 This repository contains all implementations as input for grape harvesting robot using ***[Image Processing + Clustering](https://github.com/huynhloc04/LVTN/tree/main/Grape_OpenCV)*** or ***[Deep Learning](https://github.com/huynhloc04/LVTN/tree/main/Vision_WS)*** methods.
 
